@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+header{
+  background: #FFA7D0;
+  color: #E06C9F;
+  height: 5rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form{
+  border: 1px solid #90F1EF;
+  height: calc(100vh - 5rem);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
